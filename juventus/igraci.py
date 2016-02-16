@@ -1,0 +1,2 @@
+
+ovo su igraci.
