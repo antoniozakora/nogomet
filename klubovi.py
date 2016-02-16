@@ -1,2 +1,3 @@
-ovdje su svi žešci klubovi
+ovdje su svi žešci klubovi.
+print ("Ovo su klubovi")
 
